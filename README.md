@@ -1,5 +1,10 @@
 # ai-resume
 
+[![npm version](https://img.shields.io/npm/v/ai-resume.svg)](https://www.npmjs.com/package/ai-resume)
+[![npm downloads](https://img.shields.io/npm/dm/ai-resume.svg)](https://www.npmjs.com/package/ai-resume)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate and improve developer resumes with AI.
 
 ## Install
