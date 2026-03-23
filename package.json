@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-resume#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-resume"
+    "url": "git+https://github.com/LXGIC-Studios/ai-resume.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-resume/issues"
