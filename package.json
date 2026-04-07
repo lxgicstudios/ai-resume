@@ -1,5 +1,5 @@
 {
-  "name": "ai-resume",
+  "name": "@lxgicstudios/ai-resume",
   "version": "1.0.0",
   "description": "AI-powered resume builder - ATS-optimized CVs with GPT",
   "main": "dist/index.js",
