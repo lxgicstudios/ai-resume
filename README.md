@@ -24,7 +24,7 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered resume builder - ATS-SEO-optimized optimized CVs with GPT.
+> AI-powered resume builder - ATS-SEO-optimized CVs with GPT.
 
 ## 🚀 Features
 
